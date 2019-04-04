@@ -1,0 +1,13 @@
+.DS_Store
+*.html
+data/report.html
+data/reports.html
+data/report.json
+data/reports/*.html
+.circleci/*
+data/report*.json
+data/report*.json
+data/report*.zip
+.vscode/launch.json
+.vscode/settings.json
+data/report/*.retry
