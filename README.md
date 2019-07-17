@@ -48,7 +48,7 @@ http://ruby-doc.org/stdlib-2.4.0/libdoc/yaml/rdoc/YAML.html
 **Para rodar os testes localmente (executar na branch Master - CLI no diretorio raiz do projeto):** 
 
 * Todos os Cenários: 
-    * ``cucumber -t @consulta_cep``
+    * ``cucumber`` ou ``cucumber -t @consulta_cep``
 * Apenas cenário válido: 
     * ``cucumber -t @cep_valido``
 * Apenas cenário inválido: 

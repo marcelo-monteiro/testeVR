@@ -6,10 +6,10 @@ AllCops:
     - ./features/step_definitions/*.rb
 
 Metrics/LineLength:
-  Max: 200
+  Max: 160
 
 MethodLength:
-  Max: 60
+  Max: 30
 
 Metrics/AbcSize:
   Enabled: false
