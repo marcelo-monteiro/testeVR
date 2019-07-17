@@ -1,6 +1,7 @@
 AllCops:
   Exclude:
     - ./features/support/hooks.rb
+    - ./features/support/hooks_config/*.rb
     - ./features/support/env.rb
     - ./features/support/report.rb
     - ./features/step_definitions/*.rb
